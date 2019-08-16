@@ -4,11 +4,6 @@
 React Native TextInput styled with Icon.
 I just created textinput with icon.
 
-
-Feel free to create PRs and issues in here.
-
-![demo](/demo.gif)
-
 ## Installation
 ```
 npm install rn-icon-textinput
