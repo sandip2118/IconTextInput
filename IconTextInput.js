@@ -36,6 +36,8 @@ export default class IconTextInput extends Component {
             onSubmitEditing={() => { this.props.onSubmitEditing() }}
             ref={(ref) => this.props.getRef ? this.props.getRef(ref) : null}
             onChangeText={(change) => this.props.onChangeText(change)}
+            underlineColorAndroid={this.props.underlineColorAndroid}
+            autoCapitalize={this.props.autoCapitalize}
           />
         </View>
       </View>
