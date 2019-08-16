@@ -1,0 +1,15 @@
+{
+  "name": "rn-icon-textinput",
+  "version": "1.0.1",
+  "description": "react native simple text input with icon",
+  "main": "IconTextInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "input"
+  ],
+  "author": "Sandip Bhadiyadra",
+  "license": "ISC"
+}
